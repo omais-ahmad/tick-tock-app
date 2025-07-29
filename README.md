@@ -1,12 +1,35 @@
-# React + Vite
+# Assessment Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a frontend assessment project built using **React 19 with vite** and **Tailwind CSS**. The project has been deployed to **Vercel**.
 
-Currently, two official plugins are available:
+## 🚀 Setup Instructions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. **Clone the repository**  
+2. Install dependencies e.g (npm i or bun i in case of using bun)
+3. Run the development server e.g (npm run dev or bun run dev)
+4. Open in browser and Visit http://localhost:5173 to view the app.
 
-## Expanding the ESLint configuration
+## 🛠 Frameworks / Libraries Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. React 19
+2. Tailwind CSS
+3. Vite - for fast development build
+4. Vercel - for deployment
+
+## 📝 Notes / Assumptions
+
+If APIs were provided, I would have tested them using Postman and integrated them more efficiently.
+
+The UI and logic were developed assuming typical expected behavior from a frontend assessment.
+
+No backend integration or mock data source was included unless explicitly required.
+
+## ⏱ Time Spent
+The total time spent completing this assessment: 6 hours
+
+## For Login
+1. email:omais@gmail.com
+2. password:123
+
+## For Live Demo Visit
+https://tick-tock-app-3iv6-522ge8dil-omais-ahmeds-projects.vercel.app/login
