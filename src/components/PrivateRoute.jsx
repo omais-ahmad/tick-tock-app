@@ -5,7 +5,7 @@ import { Outlet } from 'react-router-dom';
 export const PrivateRoute = () => {
   const { auth } = useAuth();
   console.log(auth);
-  if (!auth || auth.token !== 'mock-token') {
+  if (!auth || auth.token !== 'mock-token-abc123') {
     return <Navigate to="/login" replace />;
   }
 
