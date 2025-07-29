@@ -32,4 +32,4 @@ The total time spent completing this assessment: 6 hours
 2. password:123
 
 ## For Live Demo Visit
-https://tick-tock-app-3iv6-522ge8dil-omais-ahmeds-projects.vercel.app/login
+ https://tick-tock-app.vercel.app/login
